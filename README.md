@@ -17,4 +17,5 @@ corrective action can be taken for data corruption.
 
 ## Block Diagram:
 
-![Uploading block dia.png…]()
+![block dia](https://github.com/Ismaeel53/CRC_HARDWARE_IMPLEMENTATION-/assets/127503048/0b425818-4b01-4d0b-aeec-f0084b676b83)
+
