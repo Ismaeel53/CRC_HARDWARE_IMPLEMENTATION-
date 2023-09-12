@@ -16,3 +16,5 @@ corrective action can be taken for data corruption.
 
 
 ## Block Diagram:
+
+![Uploading block dia.png…]()
