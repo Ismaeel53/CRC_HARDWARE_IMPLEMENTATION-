@@ -1,4 +1,4 @@
-![Screenshot 2023-09-12 212949](https://github.com/Ismaeel53/CRC_HARDWARE_IMPLEMENTATION-/assets/127503048/45a5b301-2ab4-4bb5-9bba-a390f484168d)# CRC_HARDWARE_IMPLEMENTATION
+# CRC_HARDWARE_IMPLEMENTATION
 
 Cyclic redundancy check (CRC) is an error detection code commonly used in digital networks 
 and storage devices to detect random changes to digital data. Data blocks entering these 
@@ -59,4 +59,4 @@ between transmitter and receiver ground ,data connection and clock signal connec
 
 ![Screenshot 2023-09-12 212911](https://github.com/Ismaeel53/CRC_HARDWARE_IMPLEMENTATION-/assets/127503048/65f06f06-0e77-4871-b68b-ec96b51ce3c0)   ![Screenshot 2023-09-12 213053](https://github.com/Ismaeel53/CRC_HARDWARE_IMPLEMENTATION-/assets/127503048/35e97366-18fd-43fc-82d1-016a451cb097)
 
-
+![Screenshot 2023-09-12 212949](https://github.com/Ismaeel53/CRC_HARDWARE_IMPLEMENTATION-/assets/127503048/45a5b301-2ab4-4bb5-9bba-a390f484168d)
